@@ -4,3 +4,4 @@
 ### Difference between call, apply, bind fuuntions?
 ### Difference between map and reducer functions?
 ### Difference between callbacks and promises?
+### What are the new features in the ES6?
