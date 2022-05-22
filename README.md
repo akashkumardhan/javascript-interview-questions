@@ -1,4 +1,5 @@
 # javascript-interview-questions
+### Somw other references https://github.com/sudheerj/javascript-interview-questions
 ### What is hoisting?
 ### What is event loop?
 ### Difference between call, apply, bind fuuntions?
