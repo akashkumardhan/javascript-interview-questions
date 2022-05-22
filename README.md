@@ -2,6 +2,7 @@
 ### Somw other references https://github.com/sudheerj/javascript-interview-questions
 ### What is hoisting?
 ### What is event loop?
+Ans: Stack -> Web APis -> Task queue/Callback queue -> stack
 ### Difference between call, apply, bind fuuntions?
 ### Difference between map and reducer functions?
 ### Difference between callbacks and promises?
