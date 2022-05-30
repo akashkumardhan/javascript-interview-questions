@@ -20,3 +20,5 @@ function x() {
     var i = 10;
 }
 x();
+# What are the main Es5(2009) features: https://ducmanhphan.github.io/2019-02-28-New-features-in-ES5/
+# What are the main ES6(2015) features: https://www.boardinfinity.com/blog/top-10-features-of-es6/#3-multi-line-strings
